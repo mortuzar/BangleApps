@@ -1,0 +1,14 @@
+{
+  "id": "retroclock",
+  "name": "Retro Clock",
+  "shortName": "Retro Clock",
+  "version": "0.01",
+  "description": "Retro clock based on 93 dub",
+  "type": "clock",
+  "tags": "clock",
+  "supports": ["BANGLEJS2"],
+  "storage": [
+    {"name":"retroclock.app.js","url":"app.js"}
+  ],
+  "data": [{"name":"retroclock.settings.json"}]
+}
