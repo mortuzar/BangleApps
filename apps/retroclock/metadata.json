@@ -9,6 +9,5 @@
   "supports": ["BANGLEJS2"],
   "storage": [
     {"name":"retroclock.app.js","url":"app.js"}
-  ],
-  "data": [{"name":"retroclock.settings.json"}]
+  ]
 }
